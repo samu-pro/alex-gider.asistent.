@@ -1,3 +1,4 @@
+
 JavaScript 
 const input = document.getElementById("codeInput");
 
@@ -38,4 +39,13 @@ button.addEventListener("click", () => {
     <p>Keep improving your code!</p>
 
   `;
-helpButton.addEventListener click function "¡Hola, soy Alex!"
+  helpButton.addEventListener("click", function() {
+
+    responseBox.textContent = "Hola, soy Alex. Estoy aquí para ayudarte a programar.";
+
+});
+helpButton.addEventListener("click", function() {
+
+    responseBox.textContent = "Hola, soy Alex. Estoy aquí para ayudarte a programar.";
+
+helpButton.addEventListener "click" function "¡Hola, soy Alex!"
