@@ -1,5 +1,5 @@
 
-JavaScript 
+// JavaScript 
 const input = document.getElementById("codeInput");
 
 const button = document.getElementById("helpButton");
