@@ -38,3 +38,4 @@ button.addEventListener("click", () => {
     <p>Keep improving your code!</p>
 
   `;
+helpButton.addEventListener click function "¡Hola, soy Alex!"
