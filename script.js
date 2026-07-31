@@ -47,5 +47,3 @@ button.addEventListener("click", () => {
 helpButton.addEventListener("click", function() {
 
     responseBox.textContent = "Hola, soy Alex. Estoy aquí para ayudarte a programar.";
-
-helpButton.addEventListener "click" function "¡Hola, soy Alex!"
